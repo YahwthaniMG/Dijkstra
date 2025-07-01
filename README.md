@@ -197,9 +197,9 @@ Este proyecto es de código abierto y fue desarrollado con fines educativos. Pue
 ## 👨‍💻 Equipo de desarrollo
 
 **Desarrolladores:**
-- Carlos Daniel Esparza Osuna
-- Isaac Humberto Preciado Bazavilvazo  
-- Eduardo Ulises Martínez Vaca
+- Carlos Daniel Esparza Osuna (https://github.com/DaniEsparza1712)
+- Isaac Humberto Preciado Bazavilvazo  (https://github.com/IsaacPreciado1)
+- Eduardo Ulises Martínez Vaca (https://github.com/EduardoMV)
 - Yahwthani Morales Gómez
 
 **Profesor:**
