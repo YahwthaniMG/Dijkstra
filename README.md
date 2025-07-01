@@ -3,7 +3,8 @@
 Una aplicación interactiva desarrollada en Ruby que permite visualizar y ejecutar el algoritmo de Dijkstra para encontrar el camino más corto entre dos nodos en un grafo.
 
 ![Dijkstra Visualizer](https://img.shields.io/badge/Ruby-2.7+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-Open%20Source-green.svg)
+![Academic Project](https://img.shields.io/badge/Academic-Project-blue.svg)
 
 ## 📋 Descripción
 
@@ -156,9 +157,16 @@ dijkstra-visualizer/
 - El algoritmo mostrará que el camino más corto es A → B → C con distancia total de 8
 - Los nodos y aristas del camino se resaltarán en verde
 
-## 🐛 Solución de problemas
+## 📚 Documentación adicional
 
-### Problemas comunes
+Para obtener información más detallada sobre el proyecto, incluyendo especificaciones técnicas y documentación completa, consulta los archivos:
+
+- `AIV_2nd_Partial_Project.pdf`
+- `AIV_2nd_Partial_Project.docx`
+
+Estos documentos contienen información adicional sobre la implementación, metodología y detalles técnicos del proyecto.
+
+## 🐛 Solución de problemas
 
 **Error: "No such file or directory - ruby2d"**
 - Solución: Instala la gema ruby2d con `gem install ruby2d`
@@ -170,9 +178,11 @@ dijkstra-visualizer/
 - Verifica que los nodos estén correctamente conectados
 - Asegúrate de usar las letras exactas de los nodos creados
 
+### Problemas comunes
+
 ## 🤝 Contribuciones
 
-Las contribuciones son bienvenidas. Para contribuir:
+Este es un proyecto de código abierto desarrollado con fines académicos. Las contribuciones son bienvenidas. Para contribuir:
 
 1. Fork el proyecto
 2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
@@ -182,12 +192,18 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Este proyecto es de código abierto y fue desarrollado con fines educativos. Puedes usar, modificar y distribuir este código libremente para cualquier propósito.
 
-## 👨‍💻 Autor
+## 👨‍💻 Equipo de desarrollo
 
-- **Yahwthani MG** - [Tu GitHub](https://github.com/YahwthaniMG)
-- 
+**Desarrolladores:**
+- Carlos Daniel Esparza Osuna
+- Isaac Humberto Preciado Bazavilvazo  
+- Eduardo Ulises Martínez Vaca
+- Yahwthani Morales Gómez
+
+**Profesor:**
+- Alfredo Emmanuel García Falcón
 
 ## 🙏 Agradecimientos
 
