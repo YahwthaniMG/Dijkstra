@@ -53,8 +53,8 @@ Este proyecto implementa una visualización interactiva del algoritmo de Dijkstr
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/YahwthaniMG/dijkstra-visualizer.git
-   cd dijkstra-visualizer
+   git clone https://github.com/YahwthaniMG/dijkstra_visualizer.git
+   cd dijkstra_visualizer
    ```
 
 2. **Instalar dependencias**:
