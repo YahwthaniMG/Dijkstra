@@ -53,8 +53,8 @@ Este proyecto implementa una visualización interactiva del algoritmo de Dijkstr
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/YahwthaniMG/dijkstra_visualizer.git
-   cd dijkstra_visualizer
+   git clone https://github.com/YahwthaniMG/Dijkstra_Visualizer.git
+   cd Dijkstra_Visualizer
    ```
 
 2. **Instalar dependencias**:
@@ -95,7 +95,7 @@ Este proyecto implementa una visualización interactiva del algoritmo de Dijkstr
 ## 🏗️ Estructura del proyecto
 
 ```
-dijkstra-visualizer/
+Dijkstra_Visualizer/
 ├── main.rb                    # Punto de entrada de la aplicación
 ├── lib/
 │   ├── algoritmo/
